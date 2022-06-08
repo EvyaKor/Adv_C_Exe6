@@ -17,6 +17,7 @@ void main()
 	
 
 	// Test checkEvenParity
+	printf("%d\n", checkEvenParity(-14580));
 	printf("%d\n", checkEvenParity(24));
 
 }
