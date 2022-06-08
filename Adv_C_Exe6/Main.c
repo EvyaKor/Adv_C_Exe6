@@ -13,7 +13,7 @@ void main()
 	char b = 'b';
 	char c = 'c';
 	char d = 'd';
-	int num = pack4Chars2Int(a, b, c, d);
+	int test = pack4Chars2Int(a, b, c, d);
 	
 
 	// Test checkEvenParity
